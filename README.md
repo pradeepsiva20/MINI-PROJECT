@@ -44,3 +44,16 @@ The frontend of the blood portal can be deployed using services like Netlify or 
 For the database, MongoDB Atlas is a reliable choice for NoSQL storage, while SQL databases like MySQL or PostgreSQL can also be used depending on the application's requirements.
 The database will store user details, blood requests, and their statuses. 
 The users' table will include fields for personal information, blood group, role, and availability status, while the requests table will track recipient details, requested blood group, quantity, location, and current status.
+
+![Screenshot 2024-11-14 204839](https://github.com/user-attachments/assets/b7c33e66-7a32-401c-ace1-44e9297ea9ec)
+
+![Screenshot 2024-11-14 204907](https://github.com/user-attachments/assets/37bebe76-897b-4c9e-99c8-a1a1419fe3dd)
+
+![Screenshot 2024-11-14 204924 - Copy](https://github.com/user-attachments/assets/42a3aa14-753b-4785-8741-a5e57563a31a)
+
+
+![Screenshot 2024-11-14 205644](https://github.com/user-attachments/assets/9559242a-a919-4b8d-a130-9ee05cdd67aa)
+
+![Screenshot 2024-11-14 205707 - Copy](https://github.com/user-attachments/assets/1eec9883-0156-479e-933a-80619e083ce7)
+
+
